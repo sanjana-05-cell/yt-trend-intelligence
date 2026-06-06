@@ -1,0 +1,8 @@
+﻿streamlit
+crewai
+crewai-tools
+python-dotenv
+pyyaml
+pandas
+yt-dlp
+youtube-transcript-api
